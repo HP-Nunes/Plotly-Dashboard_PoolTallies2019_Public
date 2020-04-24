@@ -157,12 +157,6 @@ def create_layout(app):
                                         html.Div(
                                                 [
                                             html.Div([
-                                                html.P("The two plots below shows the Histogram & Boxplot of patronage for \
-                                                all Aquatic Activities per day for the entire dataset in 2019:"),
-                                                html.Img(
-                                                src=app.get_asset_url("hist1.png"),
-                                                className="plot",
-                                                        ),
                                                 html.P("The distribution of total daily patronage follows a normal distribution \
                                                 skewing to the right, with a daily average of 136 patrons. The right-skewing in \
                                                 the histogram can be explained by a many handful of outliers where attendance was \
