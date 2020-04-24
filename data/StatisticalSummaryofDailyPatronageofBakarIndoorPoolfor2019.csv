@@ -1,0 +1,8 @@
+A,B,C,D,E,F
+Statistic (number of Swimmers),Family Swim,Lap Swim,Water Excercise,Aquatic Programs,All
+Average (rounded to nearest integer),33,46,26,30,136
+Standard Deviation (rounded to the nearest hundredth),53.10,41.68,24.07,51.87,99.05
+Minimum X Maximum,0 X 319,0 X 566,0 X 101,0 X 331,28 X 679
+25% Quartile (rounded to the nearest hundredth),3.00,28.00,0.00,0.00,79.00
+50% Quartile (rounded to the nearest hundredth),10.00,41.00,26.50,7.00,106.00
+75% Quartile (rounded to the nearest hundredth),43.00,56.00,43.00,36.75,155.00
