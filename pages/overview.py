@@ -33,28 +33,27 @@ def create_layout(app):
                                     html.Br([]),
                                     html.P(
                                      "\
-                                    In 2019, the Pool was patronized at least 43,067 times over the course\
-                                    of 324 days; an average patronage of 133 times per day. \
+                                    Over the course of 2019, the Bakar Fitness Center's Indoor Pool was patronized at least 43,067 times over \
+                                    324 days; on average, the pool was patronized 133 times per day. \
                                     Lifeguards, who are tasked with tallying pool attendance every 30 minutes on the \
                                     15-minute mark, recorded collectively 5,581 tallies, totaling 167,430 minutes worth \
                                     of data, or an average of 9 operational pool hours per day (out of an estimated maximum of \
-                                    12 hours on most days). While Lap Swim is the pool activity which sees the most cumulative \
-                                    annual patronage (nearly a third of all patrons), the busiest days occur during Family Swim \
-                                    programming on weekends. The busiest months occur in January and September, a trend that can \
+                                    12 hours on most days). While Lap Swim is the pool activity which saw the most cumulative \
+                                    annual patronage (accounting for nearly a third of all patrons), the busiest days occured during Family Swim \
+                                    programming on weekends. The busiest months were January and September respectively, a trend that can \
                                     be reasonably correlated to the start of the University's academic calendar for the Fall & \
-                                    Winter Quarters respectively. Observations of interest include a comparison of \
-                                    patronage between weekends with scheduled lessons and those with nones; \
-                                    and trends in early morning Lap Swim weekday patronage.",
+                                    Winter Quarters. Included in this report are two analytical case studies: 1) a comparison of \
+                                    attendance between weekends with scheduled lessons and those with none, and 2) change in patronage \
+                                    during early morning Lap Swim programming on weekdays.",
                                         style={"color": "#ffffff"},
                                         className="row",
                                     ),
                                     html.Hr([]),
                                     html.P(
                                     "\
-                                    Throughout the report, “patronage“ refers to \
+                                    Throughout the report, the term “patronage“ refers to \
                                     the usage of the facility by undefined individuals. That is, we cannot assess whether these \
-                                    are unique or reoccuring patrons for any given time. The tallying dataset would require to be \
-                                    appropriately normalized to derive such a metric, which is not possible at this time.",
+                                    are unique or reoccuring patrons for any given time.",
                                     ),
                                     html.P(
                                     "\
@@ -100,8 +99,8 @@ def create_layout(app):
                                     html.Br([]),
                                     html.P(
                                      "\
-                                    The following are a set of recommendations moving forward in order to \
-                                    ensure that future tallying records improve in accuracy, fidelity, \
+                                    The following are a set of recommendations in order to ensure \
+                                    that future tallying records improve in accuracy, fidelity, \
                                     and completedness, with the intent to generate greater patronage insights:",
                                         style={"color": "black"},
                                         className="row",
