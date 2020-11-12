@@ -1,6 +1,6 @@
 # Plotly Dashboard: 2019 Analysis of Pool Tallies
 
-![alt text](readMe_assets/pool-underwater.jpg "Banner")
+![alt text](assets/pool-underwater.jpg "Banner")
 
 ***
 ## Description
