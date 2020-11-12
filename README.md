@@ -3,6 +3,10 @@
 <img src= assets/pool-underwater.jpg width=100% height="200">
 
 ***
+## Deliverable
+
+A published and interactive dashboard of descriptive statistics of annual patronage at a pool: https://pool-tally-report-plotlydash.herokuapp.com/
+
 ## Description
 
 This dashboard summarizes patronage attendance over time and by aquatic programming activities. Analog records were digitized, and the subsequent dataset was wrangled with Python Pandas in Jupyter Notebook.
