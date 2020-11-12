@@ -1,7 +1,6 @@
 # Plotly Dashboard: 2019 Analysis of Pool Tallies
 
-![](assets/pool-underwater.jpg){:height="50%" width="50%"}
-
+<img src= assets/pool-underwater.jpg width="100" height="100">
 ***
 ## Description
 
